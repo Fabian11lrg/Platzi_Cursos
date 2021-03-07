@@ -51,7 +51,11 @@ body
 {
     background: white;
     padding: 1em;
+}
 
+p.centrado 
+{
+    text-align: center;
 }
 
 #footer
