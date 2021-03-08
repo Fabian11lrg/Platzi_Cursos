@@ -17,4 +17,6 @@ experimento 1
 
 experimento 2
 
+Aprendiendo Cherry pick
+
 Hoy es el CTO de Labrex y Muuds Colombia.
