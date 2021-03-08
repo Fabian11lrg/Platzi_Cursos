@@ -1,6 +1,6 @@
 # Platzi_Cursos &lt;3
 Ejercicios desarrollados en los cursos de Platzi
->Ejercicios del [curso Git y Github](https://platzi.com/cursos/git-github/"curso de Git y Github") de [Platzi](https://platzi.com/)
+>Ejercicios del [curso Git y Github](https://platzi.com/cursos/git-github/) de [Platzi](https://platzi.com/)
 >Todo lo que me hacia falta para empezar a desarrollar proyectos opensource y conectarme con el mundo de la ingeniería metabólica, el machine learning y el desarrollo Web
 >* Aqui tengo tu cariñito prro 
 
