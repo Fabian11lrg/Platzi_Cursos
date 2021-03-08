@@ -19,6 +19,8 @@ experimento 2
 
 Aprendiendo Cherry pick
 
-Se desarrollan experimentos de recate de commits
+Se desarrollan experimentos de rescate de commits
+
+antiguos con el uso de esta herramienta
 
 Hoy es el CTO de Labrex y Muuds Colombia.
